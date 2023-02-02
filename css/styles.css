@@ -61,9 +61,9 @@
   }
    /* Media Query */
 
-   @media(max-width:993px) {
+   @media(max-width:992px) {
     .title-image, .title-image-shadow{
-      width:100vh;
+      width:100%;
       position: static;
       transform: rotate(0);
       
